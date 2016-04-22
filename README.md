@@ -6,6 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/NDParallaxIntroView.svg?style=flat)](http://cocoadocs.org/docsets/NDCollapsiveDatePicker)
 
 This is the pod version of NDParallaxIntroView, which provides a very easy to use and beautiful parallax IntroView for your App to onboard user.
+The non-pod version is available on https://github.com/s1m-0n/NDParallaxIntroView
 
 ## Installation
 
