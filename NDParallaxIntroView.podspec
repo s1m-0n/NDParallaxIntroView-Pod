@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "NDParallaxIntroView"
-  s.version          = "0.1.0"
+  s.version          = "1.0"
   s.summary          = "NDParallaxIntroView is an easy to use InfoView with parallax effect to onboard your users to your iOS App."
 
 # This description is used to generate tags and improve search results.
@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/s1m-0n/NDParallaxIntroView-Pod"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "Simon Wicha" => "simon.wicha@mokosocialmedia.com" }
+  s.author           = { "Simon Wicha" => "simon.wicha@nomis-development.net" }
   s.source           = { :git => "https://github.com/s1m-0n/NDParallaxIntroView-Pod.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
