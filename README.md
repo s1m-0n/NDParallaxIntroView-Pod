@@ -11,8 +11,9 @@ This is the pod version of NDParallaxIntroView, which provides a very easy to us
 
 NDParallaxIntroView is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
-
+```ruby
 pod 'NDParallaxIntroView'
+```
 
 ## Usage
 
