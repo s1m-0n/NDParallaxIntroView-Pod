@@ -1,0 +1,14 @@
+PODS:
+  - NDParallaxIntroView (0.1.0)
+
+DEPENDENCIES:
+  - NDParallaxIntroView (from `../`)
+
+EXTERNAL SOURCES:
+  NDParallaxIntroView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NDParallaxIntroView: a4077be497815e9aee0c89d78143cfe4f5354ca8
+
+COCOAPODS: 0.38.2

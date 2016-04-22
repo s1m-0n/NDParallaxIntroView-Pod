@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NDParallaxIntroView_Example', :exclusive => true do
+  pod 'NDParallaxIntroView', :path => '../'
+end
+
+target 'NDParallaxIntroView_Tests', :exclusive => true do
+  pod 'NDParallaxIntroView', :path => '../'
+
+  
+end
