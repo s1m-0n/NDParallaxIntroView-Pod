@@ -22,9 +22,9 @@ Create a strong property of NDParallaxIntroView in your class from which you wan
 ``` objective-c
 #import <NDParallaxIntroView/NDIntroView.h>
 
-@property (strong, nonatomic) NDParallaxIntroView *introView;
+@property (strong, nonatomic) NDIntroView *introView;
 
-@interface ViewController : UIViewController <NDParallaxIntroViewDelegate>
+@interface ViewController : UIViewController <NDIntroViewDelegate>
 ```
 Usage:
 ``` objective-c
